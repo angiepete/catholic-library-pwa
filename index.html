@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#16213e">
+  <title>Catholic Library</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="apple-touch-icon" href="icon-192.png">
+</head>
+<body>
+  <header>
+    <h1>Catholic Library</h1>
+    <input id="search" class="search-bar" type="search" placeholder="Search texts…">
+  </header>
+  <div class="tabs">
+    <button class="tab active" data-cat="all" onclick="setCategory('all')">All</button>
+    <button class="tab" data-cat="bible" onclick="setCategory('bible')">Bible</button>
+    <button class="tab" data-cat="catechism" onclick="setCategory('catechism')">Catechism</button>
+    <button class="tab" data-cat="saints" onclick="setCategory('saints')">Saints</button>
+    <button class="tab" data-cat="fathers" onclick="setCategory('fathers')">Fathers</button>
+  </div>
+  <main id="content"></main>
+  <nav class="nav-bar">
+    <button class="active" onclick="setCategory('all')">Library</button>
+    <button onclick="alert('Bookmarks view coming soon')">Bookmarks</button>
+    <button onclick="alert('About: Public-domain Catholic texts. Offline capable.')">About</button>
+  </nav>
+  <script src="app.js"></script>
+</body>
+</html>
