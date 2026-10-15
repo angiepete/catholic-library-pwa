@@ -1,0 +1,24 @@
+{
+  "bible": [
+    {"id": "dr-gen1", "title": "Genesis 1 — Creation", "category": "Bible"},
+    {"id": "dr-ps139", "title": "Psalm 139 — God formed me in the womb", "category": "Bible"},
+    {"id": "dr-jer1", "title": "Jeremiah 1 — Called from the womb", "category": "Bible"},
+    {"id": "dr-isa7", "title": "Isaiah 7 — Virgin shall conceive", "category": "Bible"},
+    {"id": "dr-isa53", "title": "Isaiah 53 — The Suffering Servant", "category": "Bible"},
+    {"id": "dr-john2", "title": "John 2 — Wedding at Cana", "category": "Bible"},
+    {"id": "dr-john11", "title": "John 11 — Raising of Lazarus", "category": "Bible"},
+    {"id": "dr-rom1", "title": "Romans 1 — God known from creation", "category": "Bible"}
+  ],
+  "catechism": [
+    {"id": "baltimore-5th", "title": "Baltimore Catechism — Fifth Commandment", "category": "Catechism"},
+    {"id": "baltimore-god-exists", "title": "Baltimore Catechism — We can know God exists", "category": "Catechism"}
+  ],
+  "saints": [
+    {"id": "augustine-conf1", "title": "St. Augustine — Confessions, Book I", "category": "Saints"},
+    {"id": "aquinas-proofs", "title": "St. Thomas Aquinas — Five Ways", "category": "Saints"}
+  ],
+  "fathers": [
+    {"id": "athanasius", "title": "St. Athanasius — On the Incarnation", "category": "Fathers"},
+    {"id": "didache", "title": "Didache — On abortion and infanticide", "category": "Fathers"}
+  ]
+}
