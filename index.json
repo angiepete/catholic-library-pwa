@@ -18,9 +18,12 @@
     {"id": "aquinas-proofs", "title": "St. Thomas Aquinas — Five Ways", "category": "Saints"},
     {"id": "liguori-prayer", "title": "St. Alphonsus Liguori — On Mental Prayer", "category": "Saints"},
     {"id": "liguori-death", "title": "St. Alphonsus Liguori — Preparation for Death", "category": "Saints"},
+    {"id": "liguori-love", "title": "St. Alphonsus Liguori — On the Love of God", "category": "Saints"},
     {"id": "desales-humility", "title": "St. Francis de Sales — On Humility", "category": "Saints"},
     {"id": "desales-anxiety", "title": "St. Francis de Sales — On Anxiety and Trust", "category": "Saints"},
-    {"id": "rodriguez", "title": "Alphonsus Rodriguez — Practice of Perfection", "category": "Saints"}
+    {"id": "desales-friendship", "title": "St. Francis de Sales — On Spiritual Friendship", "category": "Saints"},
+    {"id": "rodriguez", "title": "Alphonsus Rodriguez — Practice of Perfection", "category": "Saints"},
+    {"id": "scupoli", "title": "Lorenzo Scupoli — The Spiritual Combat (excerpt)", "category": "Saints"}
   ],
   "fathers": [
     {"id": "athanasius", "title": "St. Athanasius — On the Incarnation", "category": "Fathers"},
